@@ -42,8 +42,5 @@ public class Q1 {
         } else {
             System.out.println("Operação invalida");
         }
-
-        }
-    
-       
-    }
+    } 
+}
